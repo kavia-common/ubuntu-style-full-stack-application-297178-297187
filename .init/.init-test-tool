@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/ubuntu-style-full-stack-application-297178-297187/fastapi_backend"
+}
